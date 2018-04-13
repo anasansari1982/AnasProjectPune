@@ -1,0 +1,6 @@
+Job names
+
+1) 00ExamJob  (this is for test compi;e)
+2) 01ExamArtifactoryJob
+3) 02ExamAnsibleDocker    (Contains both Ansible and Docker, and same Deploy.yml contains for both Local Tomcat and Docker Tomcat)
+
